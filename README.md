@@ -2,7 +2,7 @@
 CHANDAN KUMAR
 ===============================
 
-<img src="140183083_1684231035082807_4674545764326621120_o.png" class="inline" style="width: 300px; height: 300px;">
+<img src="CHANDAN_TONYCHan.jpg" class="inline" style="width: 300px; height: 300px;">
 
 ### 👋 👋 Hi There, I am  CHANDAN KUMAR
 

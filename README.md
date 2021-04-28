@@ -1,6 +1,4 @@
 # CHANDAN-KUMAR-RESUME
-CHANDAN KUMAR
-===============================
 
 <img src="CHANDAN_TONYCHan.jpg" class="inline" style="width: 300px; height: 300px;">
 

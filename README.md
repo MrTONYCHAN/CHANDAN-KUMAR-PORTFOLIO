@@ -1,7 +1,7 @@
 
 # 👋 👋 Hi There, I am  CHANDAN KUMAR
 <a>
-<img src="CHANDAN_TONYCHan.jpg" class="inline" style="width: 300px; height: 300px;">
+<img src="CHANDAN_TONYCHan.jpg" class="inline" style="width: 300px; height: 200px;">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MrTONYCHAN.visitor-badge)
 [![GitHub followers](https://img.shields.io/github/followers/MrTONYCHAN.svg?style=social&label=Follow)](https://github.com/MrTONYCHAN?tab=followers)

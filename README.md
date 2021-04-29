@@ -1,5 +1,5 @@
 # CHANDAN-KUMAR-RESUME
-
+<a>
 <img src="CHANDAN_TONYCHan.jpg" class="inline" style="width: 300px; height: 300px;">
 
 ### 👋 👋 Hi There, I am  CHANDAN KUMAR
@@ -21,7 +21,7 @@
 <a href="mrtonychan98@gmail.com">
   <img align="center" alt="TONYCHAN's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+</a>
 
 
 

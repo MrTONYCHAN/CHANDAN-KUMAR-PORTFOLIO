@@ -124,7 +124,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 5</div>
-  <img src="IMG4.png" style="width:100%">
+  <img src="IMG5.png" style="width:100%">
   <div class="text">Microsoft Technology Associate (MTA)</div>
 </div>
 

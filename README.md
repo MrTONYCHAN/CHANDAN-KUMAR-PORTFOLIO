@@ -154,6 +154,8 @@ Freelance Software Engineer
 Freelance Jan 2020 – Present (1 yr 1 mo)
 
 
+<a href="https://mrtonychan.github.io/CHANDAN-KUMAR-EXPERIENCE/">link text</a>
+
 PROJECTS
 --------------------------
 

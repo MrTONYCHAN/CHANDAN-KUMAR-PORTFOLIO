@@ -3,14 +3,13 @@
 <a>
 <img src="CHANDAN_TONYCHan.jpg" class="inline" style="width: 300px; height: 300px;">
 
-
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MrTONYCHAN.visitor-badge)
+[![GitHub followers](https://img.shields.io/github/followers/MrTONYCHAN.svg?style=social&label=Follow)](https://github.com/MrTONYCHAN?tab=followers)
+</a>
 
 
 <a> GitHub Repositories : 
-  </a>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MrTONYCHAN.visitor-badge)
-[![GitHub followers](https://img.shields.io/github/followers/MrTONYCHAN.svg?style=social&label=Follow)](https://github.com/MrTONYCHAN?tab=followers)
+
 
 
 
@@ -21,7 +20,6 @@
 </a>
 <a href="mrtonychan98@gmail.com">
   <img align="center" alt="TONYCHAN's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 </a>
 
 

@@ -16,8 +16,7 @@
 </a>
 
 
-<html>
-<head>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box;}
@@ -159,7 +158,7 @@ function showSlides() {
   setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 </script>
-</body></html> 
+
 
 
 

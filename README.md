@@ -1,5 +1,5 @@
-# CHANDAN-KUMAR-RESUME
-### 👋 👋 Hi There, I am  CHANDAN KUMAR
+
+# 👋 👋 Hi There, I am  CHANDAN KUMAR
 <a>
 <img src="CHANDAN_TONYCHan.jpg" class="inline" style="width: 300px; height: 300px;">
 

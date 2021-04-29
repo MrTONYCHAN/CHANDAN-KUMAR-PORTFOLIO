@@ -10,6 +10,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MrTONYCHAN.visitor-badge)
 [![GitHub followers](https://img.shields.io/github/followers/MrTONYCHAN.svg?style=social&label=Follow)](https://github.com/MrTONYCHAN?tab=followers)
 
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7806109&style=0006&nbdigits=6&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>  
 
 ![MrTONYCHAN GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrTONYCHAN&count_private=true&show_icons=true&theme=algolia )
 

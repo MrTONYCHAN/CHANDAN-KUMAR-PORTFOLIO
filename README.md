@@ -89,8 +89,7 @@ img {vertical-align: middle;}
   .text {font-size: 11px}
 }
 </style>
-</head>
-<body>
+
 
 <h2>Experience & activities</h2>
 

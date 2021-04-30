@@ -321,7 +321,8 @@ img {vertical-align: middle;}
 <div class="mySlides fade" style="display: none;">
   <div class="numbertext">3 / 5</div>
   <img src="IMG3.png" style="width:50%">
-  <div class="text" style="color:rgb(98, 0, 255);">Google Developer Groups <BETA> / Developer community programs</div>
+  <div class="text" style="color:rgb(98, 0, 255);">
+    Google Developer Groups <BETA> / Developer community programs</div>
 </div>
 
 <div class="mySlides fade" style="display: none;">

@@ -222,8 +222,10 @@ UPDATED GITHUB PAGE AND LINKEDIN LINK :
             Chandan kumar - https://www.linkedin.com/in/chandan-kumar-a83987166/
             
             
-            
-<!DOCTYPE html>
+ "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning." -Albert Einstein
+
+
+           
 <html lang="en">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -374,7 +376,4 @@ function showSlides() {
             
             
             
-"Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning." -Albert Einstein
-
-
 

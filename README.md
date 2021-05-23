@@ -113,6 +113,8 @@ EDUCATION
 CERTIFICATIONS
 --------------------------
 
+•       Azure Developer League: Data Science and AI - Issuing authorityMicrosoft - Credential IdentifierCredential ID chandankumar-8252
+
 •       MTA: Introduction to Programming Using Python - Certified 2018 - Microsoft.
 
 •       Python Issuing authority GUVI Geek Networks, IITM Research Park. Issued date and, if applicable, expiration date of the certification or licenseIssued Apr 2021No    Expiration Date Credential IdentifierCredential ID Q389513M011Ok36dEG

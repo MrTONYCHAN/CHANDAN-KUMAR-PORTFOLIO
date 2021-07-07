@@ -37,11 +37,15 @@ Updated info at  : -
           https://mrtonychan.github.io/CHANDAN-KUMAR-RESUME/
           
           
-LinkedIn - id : - 
+LinkedIn - ID : - 
 
-         https://www.linkedin.com/in/chandan-kumar-a83987166/
+         https://www.linkedin.com/in/chandan-kumar-a839
+  
 
-Kaggle -  
+Microsoft | Azure- ID : -
+         https://docs.microsoft.com/en-us/users/chandankumar-8252/
+
+Kaggle - ID : -  
          
          CHANDAN KUMAR - link : https://www.kaggle.com/chandantonychan     
           
@@ -51,14 +55,14 @@ google.dev-Beta
   
           CHANDAN KUMAR - link : https://google.dev/u/107098989741051935567?utm_source=developers.google.com
 
-Github - 
+Github - ID : -
 
           TONYCHANCHANDAN - link : https://github.com/CHANDANTONYCHAN
           
           MrTONYCHAN - link : https://github.com/MrTONYCHAN
           
 
-GitLab -  
+GitLab -  ID : -
  
           https://gitlab.com/MrTONYCHAN
           

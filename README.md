@@ -156,7 +156,8 @@ CERTIFICATIONS
 WORK EXPERIENCE
 --------------------------
 
-
+Working with Cargo Flash Infotech as a Machine Learning Engineer
+  
 Self-Learner								2017 – Present
 
 Self-Improvement by constant learning. Gained knowledge in the field of C++/Python, Software Dev, Machine & Deep Learning, Artificial Intelligence.  
@@ -165,7 +166,6 @@ Attended numerous webinars on ML AND AI and Coding meetups to update info on ind
 
 Freelance Software Engineer
 
-Freelance Jan 2020 – Present (1 yr 1 mo)
 
 
 <a href="https://mrtonychan.github.io/CHANDAN-KUMAR-EXPERIENCE/">link text</a>

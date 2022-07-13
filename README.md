@@ -15,8 +15,14 @@
   <img align="center" alt="TONYCHAN's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+  
 
-  : https://www.datascienceportfol.io/chandanKumar
+  
+  
+Projects :
+  
+
+         https://www.datascienceportfol.io/chandanKumar
 
 
 Personal id:

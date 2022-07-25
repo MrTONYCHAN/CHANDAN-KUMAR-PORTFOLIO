@@ -220,8 +220,8 @@ HONOR & AWARD
 
 
 
-UPCOMING PROJECTS AND MORE
--------------------------------
+UPCOMING PROJECTS AND MORE UPDATES 
+-------------------------------------
 
 1. Rock Paper Scissors
 2. Cat and Dog  Image Classifier

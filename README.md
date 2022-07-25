@@ -39,9 +39,9 @@ Contact number:
 
 +91-7082092562
 
-Updated info at  : - 
 
-          https://mrtonychan.github.io/CHANDAN-KUMAR-RESUME/
+
+
           
           
 LinkedIn - ID : - 
@@ -233,13 +233,13 @@ UPCOMING PROJECTS AND MORE
 And more
 
 
-UPDATED GITHUB PAGE AND LINKEDIN LINK : 
---------------------------------------------
+
+---------
 
             
-            Page link     - https://mrtonychan.github.io/CHANDAN-KUMAR-RESUME/
-            Chandan kumar - https://www.linkedin.com/in/chandan-kumar-a83987166/
-            
+           
+
+
             
  "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning." -Albert Einstein
 

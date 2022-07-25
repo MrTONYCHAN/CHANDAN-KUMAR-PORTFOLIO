@@ -164,7 +164,7 @@ Self-Improvement by constant learning. Gained knowledge in the field of C++/Pyth
 
 Attended numerous webinars on ML AND AI and Coding meetups to update info on industry trends.Experience
 
-Freelance Software Engineer
+
 
 
 
@@ -172,6 +172,11 @@ Freelance Software Engineer
 
 PROJECTS
 --------------------------
+
+•	OPENCV : HAZMAT DETECTION / JULY 2022 - Present
+
+        link - https://www.datascienceportfol.io/chandanKumar
+
 
 •	DOG-BREED-CLASSIFIER-TF2.0 / Oct 2020 – Present
         Project descriptionDog Breed Classification Using TF-2.0 and Keras.Dog Breed Classification Using TF-2.0 and Keras. 
